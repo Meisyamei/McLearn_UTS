@@ -1,0 +1,39 @@
+UTS MACHINE LEARNING
+Nama : Meisya Margareta Yovita
+Nim 	:20220801187
+
+Soal:
+1) Jelaskan apa yang dimaksud dengan Machine Learning 
+2) Berikan contoh penerapan implemetasi dalam kehidupan sehari-hari terkait Machine Learning. Dan jelaskan mengapa membutuhkannya dan manfaatnya 
+3) Jelaskan macam-macam taxonomi dalam pengerapan Machine Learning
+
+Jawaban:
+1.	Machine Learning adalah pendekatan dalam kecerdasan buatan di mana komputer belajar dari data untuk membuat prediksi atau keputusan tanpa instruksi eksplisit.  Prosesnya melibatkan pengumpulan data, pra-pemrosesan, pemilihan model, pelatihan, evaluasi, penyempurnaan, dan implementasi. Aplikasinya meluas dari pengenalan suara hingga kendaraan otonom. Dengan Machine Learning, komputer dapat mengambil keputusan yang lebih cerdas dan membuat prediksi yang akurat berdasarkan data yang diberikan.
+
+2.	Mesin vakum otomatis
+•  Pengenalan Pola: 
+Mesin vakum cerdas menggunakan algoritma Machine Learning untuk mengenali pola di sekitarnya. Ini memungkinkan mereka untuk mengidentifikasi batas-batas kamar, mengenali rintangan seperti furnitur, dan menyesuaikan jalur mereka untuk membersihkan area dengan efisien.
+•  Pemetaan Ruangan: 
+Mesin vakum cerdas bisa memetakan ruangan tempat mereka bekerja. Mereka menggunakan sensor dan kamera untuk memahami tata letak ruangan dan menciptakan peta digital yang memungkinkan mereka untuk bekerja secara sistematis dan efisien.
+•  Adaptasi Terhadap Lingkungan: 
+Dengan Machine Learning, mesin vakum dapat belajar dari pengalamannya. Mereka bisa mengenali area-area yang sering kotor dan meningkatkan keefektifan pembersihan di sana. Mereka juga bisa mengenali area yang jarang digunakan dan mengurangi waktu yang mereka habiskan di sana.
+•  Efisiensi: 
+Mesin vakum cerdas bisa membersihkan rumah dengan lebih efisien daripada manusia. Mereka dapat membersihkan di bawah perabotan yang sulit dijangkau dan menghabiskan lebih sedikit waktu untuk membersihkan area yang sama.
+•  Kenyamanan: 
+Dengan mesin vakum cerdas, Anda dapat mengatur jadwal pembersihan dan membiarkannya melakukan pekerjaan tanpa harus mengawasinya secara langsung. Ini memberikan kenyamanan dan mengurangi beban kerja rumah tangga.
+•  Kualitas Pembersihan: 
+Dengan penggunaan Machine Learning, mesin vakum cerdas dapat memberikan pembersihan yang lebih baik. Mereka dapat mengidentifikasi area yang membutuhkan perhatian ekstra dan memastikan bahwa seluruh ruangan dibersihkan dengan baik.
+
+3.	Berdasarkan Tanggung Jawab:
+•	Pembelajaran Tanpa Awasi (Unsupervised Learning): Algoritma ini digunakan ketika data tidak memiliki label, dan sistem harus menemukan pola atau struktur tanpa bantuan label. Contohnya adalah pengelompokan pelanggan atau analisis klaster.
+•	Pembelajaran Terawasi (Supervised Learning): Algoritma ini menggunakan data yang berlabel, di mana sistem belajar dari contoh-contoh yang telah ditandai dengan benar. Contoh aplikasi termasuk klasifikasi email spam atau prediksi harga rumah.
+•	Pembelajaran Penguatan (Reinforcement Learning): Sistem belajar melalui percobaan dan kesalahan, menerima imbalan atau hukuman berdasarkan tindakan yang diambil. Contohnya termasuk robot pembelajaran bermain game atau kendaraan otonom.
+ Berdasarkan Algoritma:
+•	Jaringan Saraf Tiruan (ANN): Terinspirasi dari struktur otak manusia, ANN terdiri dari neuron buatan yang saling terhubung. Mereka digunakan untuk pengenalan pola, regresi, dan klasifikasi.
+•	Pohon Keputusan: Algoritma ini menggunakan struktur pohon untuk menunjukkan hasil dan keputusan yang mungkin. Mereka mudah diinterpretasikan dan cocok untuk tugas-tugas seperti regresi dan klasifikasi.
+•	Mesin Vektor Dukungan (SVM): SVM menemukan hyperplane yang ideal untuk memisahkan data, terutama efektif untuk tugas klasifikasi dengan data berukuran besar.
+Berdasarkan Aplikasi:
+•	Pengolahan Bahasa Alami (NLP): Digunakan untuk memahami dan memproses bahasa manusia, seperti terjemahan mesin, analisis sentimen, dan chatbot.
+•	Penglihatan Komputer (Computer Vision): Digunakan untuk memahami dan menganalisis gambar dan video, termasuk pengenalan wajah, deteksi objek, dan otonomi kendaraan.
+•	Robotika: Algoritma pembelajaran mesin digunakan untuk mengatur dan mengoptimalkan gerakan robot dalam berbagai konteks.
+
